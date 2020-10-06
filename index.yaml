@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chartwithvariable:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-10-06T11:57:14.874533164Z"
+    description: A Helm chart for Kubernetes
+    digest: 2fb0c141cd78192809fbb2486b4dd9257628e8011cf663a0834430057f0f0d6b
+    name: chartwithvariable
+    type: application
+    urls:
+    - https://kunal-parsewar.github.io/helmChart/chartwithvariable-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-10-06T11:57:14.874079798Z"
